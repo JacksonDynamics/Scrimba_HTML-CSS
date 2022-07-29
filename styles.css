@@ -1,46 +1,8 @@
 body {
-    margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
-    font-family: Fantasy, 'Times New Roman', Times, serif;
-    letter-spacing: 2.5px;
-    text-shadow: 5px 5px 5px rgb(35, 35, 35);
+    color: white;
+    background-image: url("images/universe.jpg");
+    background-size: cover;
 }
-
-.border {
-    padding: 60px;
-    border: 5px double black;
-
-}
-.avatar {
-    width: 150px;
-    border: 1px solid;
-    box-shadow: 5px 5px 5px rgb(35, 35, 35);
-}
-
-.card {
-    width: 400px;
-    margin: 0 auto;
-    padding: 20px;
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    background-color:dimgray;
-    color: #ededee;
-    border-bottom: 20px solid #2f12a5;
-    font-size: 24px;
-        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
-}
-
-
 
 
 
