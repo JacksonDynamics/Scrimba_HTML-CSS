@@ -5,6 +5,9 @@
 
 <img src="images/SpaceExploration.png" alt="Space Exploration" width="400px" />
 
+<br />
+<br />
+
 ### Built a Birthday GIFt site with hovering effects
 
 <img src="images/Birthday1.png" width="400px" />
