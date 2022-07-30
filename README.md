@@ -7,5 +7,9 @@
 
 ### Built a Birthday GIFt site with hovering effects
 
+<img src="images/Birthday1.png" width="400px" />
+<img src="images/Birthday2.png" width="400px" />
+<img src="images/Birthday3.png" width="400px" />
+
 
 [Website](https://jacksondynamics.github.io/Scrimba_HTML-CSS/)
