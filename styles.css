@@ -1,6 +1,6 @@
 body {
     font-family: 'Happy Monkey', cursive;
-    background: #4F646F;
+    background: linear-gradient(#4F646F, #1c1d1d);
     color: #DEE7E7;
     text-align: center;
 }
@@ -37,19 +37,60 @@ h1, h2, h3, h4, p {
 }
 
 .gift-section{
-    margin-top: 50px;
+    margin: 50px;
 }
 
 .gift-title {
-    margin-bottom: 0; 
+    margin-bottom: 20px; 
 }
 
 .gift-hint {
-    margin-top: 10;
+    margin-top: 0;
 }
+
 .gift-cover {
+    margin: 0 auto;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    height: 400px;
     width: 400px;
     border: 5px solid white;
-    border-radius: 10px;;
+    border-radius: 10px;
+    
+}
 
+#gift-cover-1:hover {
+    background-image: url("images/happy.gif");
+}
+
+#gift-cover-2:hover {
+    background-image: url("images/hot.gif");
+}
+
+#gift-cover-3:hover {
+    background-image: url("images/brilliant.webp");
+    background-position: -75px 0px;
+}
+
+#gift-cover-4:hover {
+    background-image: url("images/Chuck.gif");
+    background-position: -75px 0px;
+}
+
+#gift-cover-5 {
+    height: 200px;
+}
+
+#gift-cover-5:hover {
+    background-image: url("images/cheers.gif");
+}
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 50px auto 30px;
+}
+
+a {
+    color: white;
 }
