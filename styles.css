@@ -1,5 +1,8 @@
 body {
     font-family: 'Happy Monkey', cursive;
+    background-color: #4F646F;
+    color: #DEE7E7;
+    
 }
 
 #hero {
@@ -7,6 +10,7 @@ body {
 }
 
 #avatar {
+    border: 8px solid #535657;
     border-radius: 50%;
     width: 300px;
   }
